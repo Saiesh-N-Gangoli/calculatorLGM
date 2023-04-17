@@ -1,0 +1,38 @@
+.display {
+    width: 197px;
+    height: 33px;
+    left: 17px;
+    position: relative;
+}
+.button-inside {
+    padding: 4px;
+    width: 46px;
+    height: 47px;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    background-color: #fff;
+    border: none;
+    font-weight: bold;
+    border-radius: 9px;
+    position: relative;
+    left: 17px;
+}
+#cancel {
+    width: 94px;
+}
+.container {
+    width: 181px;
+        top: 102px;
+
+}
+.mypocketcalci {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    top: 22px;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 20px;
+    text-align: center;
+}

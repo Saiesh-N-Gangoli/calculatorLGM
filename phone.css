@@ -1,0 +1,15 @@
+.container {
+    width: 216px;
+    top: 15%;
+    height: 360px;
+}
+.mypocketcalci{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    top: 35px;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 25px;
+}
